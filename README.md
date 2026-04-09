@@ -1,15 +1,17 @@
 # html-css-bootcamp
 
-## Student task
+Fork this repository to your GitHub account
+
+## Tasks
 ### Task 1
 Fix all HTML and CSS errors in files *broken.html* and *broken-style.css* (at least 10), rename them to *fixed.html* and *fixed-style.css*.
 Make the page structurally correct, replace generic divs with suitable semantic elements, add meaningful alt text, and correct the CSS so the page displays neatly with working margin and padding.
 
 ### Task 2
 Cheat-sheet mini project
-After the debugging task, ask students to create a simple page called cheatsheet.html with an external file cheatsheet.css.
+Create a simple page called cheatsheet.html with an external file cheatsheet.css.
 
-Student brief
+#### Brief
 Create a semantic page using header, main, section, and footer.
 Add a heading: My HTML & CSS Cheat Sheet.
 Add one section with at least 10 useful HTML tags.
